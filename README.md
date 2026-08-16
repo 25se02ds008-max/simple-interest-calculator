@@ -1,36 +1,37 @@
 # Simple Interest Calculator
 
-## Introduction
-A Simple Interest Calculator is a program that calculates the simple interest on a given principal amount.
+## Description
+
+This project is a simple interest calculator that calculates simple interest based on the principal amount, rate of interest, and time period.
 
 ## Formula
 
-Simple Interest = (P × R × T) / 100
+Simple Interest = (Principal × Rate × Time) / 100
 
-Where:
-- P = Principal Amount
-- R = Rate of Interest
-- T = Time in years
+## Inputs
+
+- Principal Amount
+- Rate of Interest
+- Time Period
+
+## Output
+
+The calculator displays the calculated simple interest.
 
 ## Example
 
-Principal = ₹10,000
-Rate = 5%
-Time = 2 years
+If:
 
-Simple Interest = (10000 × 5 × 2) / 100
-Simple Interest = ₹1,000
+- Principal = 1000
+- Rate = 5%
+- Time = 2 years
 
-## Features
-- Easy to use
-- Calculates simple interest quickly
-- Takes principal, rate, and time as input
-- Displays the calculated interest
+Then:
+
+Simple Interest = (1000 × 5 × 2) / 100 = 100
 
 ## Technologies Used
+
 - HTML
 - CSS
 - JavaScript
-
-## Repository
-This repository contains the source code and documentation for the Simple Interest Calculator.
