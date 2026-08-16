@@ -2,49 +2,40 @@
 
 ## Our Pledge
 
-We are committed to making participation in our project a respectful and welcoming experience for everyone. We expect all contributors and participants to behave professionally and respectfully.
+We pledge to make participation in our project a welcoming and respectful experience for everyone. We are committed to providing a friendly and inclusive environment.
 
 ## Our Standards
 
 Examples of positive behavior include:
 
-- Being respectful and considerate to others.
+- Being respectful and considerate.
 - Using welcoming and inclusive language.
-- Accepting constructive criticism politely.
-- Focusing on what is best for the project and community.
-- Respecting different opinions and experiences.
+- Accepting constructive criticism.
+- Focusing on what is best for the community.
+- Showing empathy toward other contributors.
 
-Unacceptable behavior includes:
-
-- Harassment or discrimination.
-- Personal attacks or insulting comments.
-- Publishing someone's private information without permission.
-- Trolling or deliberately disruptive behavior.
-- Any other behavior that is inappropriate in a professional community.
+Unacceptable behavior includes harassment, discrimination, personal attacks, and other inappropriate conduct.
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior. They may take appropriate action when unacceptable behavior occurs.
+Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior. They may take appropriate and fair corrective action in response to unacceptable behavior.
 
 ## Scope
 
-This Code of Conduct applies to all project spaces, including the GitHub repository, issues, pull requests, discussions, and other project-related activities.
+This Code of Conduct applies to all project spaces, including the repository, issues, pull requests, discussions, and other project-related activities.
 
 ## Enforcement
 
-Project maintainers may take appropriate action in response to behavior that violates this Code of Conduct. Actions may include warnings, removal of inappropriate content, temporary restrictions, or removal from project participation.
+Instances of unacceptable behavior may be reported to the project maintainers. All reports will be reviewed and investigated fairly and appropriately.
 
 ## Enforcement Guidelines
 
-When deciding how to respond to a violation, maintainers may consider:
+Project maintainers may take any action they consider appropriate, including:
 
-1. The nature and seriousness of the violation.
-2. Whether the behavior was repeated.
-3. The impact on other community members.
-4. The circumstances surrounding the incident.
-
-Maintainers will aim to handle enforcement fairly and consistently.
+1. A warning for inappropriate behavior.
+2. Temporary restriction from participating in the project.
+3. Permanent removal from the project for serious or repeated violations.
 
 ## Attribution
 
-This Code of Conduct is inspired by community Code of Conduct practices and the Contributor Covenant.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
